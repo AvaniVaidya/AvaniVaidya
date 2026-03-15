@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Avani Vaidya 👋
+I'm Avani Vaidya 👋
 
 💻 Full Stack Software Engineer | Backend & Distributed Systems
 
