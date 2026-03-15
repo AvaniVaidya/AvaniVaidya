@@ -10,16 +10,16 @@ I’m a software engineer with 4 years of experience building scalable backend s
 
 ## 🛠 Tech Stack
 
-Languages
+Languages \n
 Java • JavaScript • Python • SQL • HTML • CSS
 
-Frameworks
+Frameworks \n
 Spring Boot • React • LangChain • LangGraph
 
-Databases
+Databases \n
 PostgreSQL • MySQL • Cassandra • Vector DBs (Chroma)
 
-Cloud & DevOps
+Cloud & DevOps \n
 AWS • Docker • Kubernetes • CI/CD  • Redis
 
 ---
